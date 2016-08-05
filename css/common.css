@@ -1,0 +1,60 @@
+/* Inserta tu codigo que es común para todas las páginas aqui */
+header{
+	margin-top: 5%;
+	margin-bottom: 3%;
+}
+h1{
+	color: #192951;	
+	margin-bottom: 2%
+}
+nav li {
+	display: inline;
+	font-size: 15px;
+	color: #192951;
+	list-style-type: none;	
+	margin-right: 5%;
+}
+button{
+	font-size: 25px;
+	background-color: #030526;
+	font-color: rgb(83, 88, 95);
+	border-style: none;
+	border-radius: 4%;
+	margin-top: 3%;
+	cursor: pointer;
+}
+form{
+	margin-top: 3%;
+	margin-left: 0%;
+	position: absolute;
+}
+.pformulario{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	width: 400px;
+	height: 50px;
+}
+#mensaje{
+	height: 150px;
+}
+#enviarcontactanos{
+	width: 400px;
+	height: 50px;
+	position: absolute;
+	float: left;
+}
+footer{
+	background-color: #030526;
+	padding-top: 2%;
+	padding-left: 2%;
+	padding-bottom: 1%;
+	font-size: 13px;
+}
+.fondoshoes{
+	background-size: 75% 75%;
+	background-image: url(../img/shoes_1.jpg);
+	background-repeat: no-repeat;
+	margin-left: 10%;
+	height: 500px;
+	padding-top: 3%;
+}
